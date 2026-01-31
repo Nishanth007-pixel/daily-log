@@ -1,1 +1,1 @@
-containing today’s work summary
+containing today’s work summary,Studied Git basics and learned how to create a repository and make commits.
