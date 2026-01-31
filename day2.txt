@@ -1,0 +1,1 @@
+Practiced Git add, commit, and checked commit history using git log.
